@@ -28,6 +28,7 @@ Secondly, merge:
 
 ## 3 Creating conflict and resolve it 
 
+This code from jun 
 Absolutely new info in the master to make conflict
 
 ## 4 Delete the branch
