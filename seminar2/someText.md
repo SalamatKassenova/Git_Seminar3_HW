@@ -1,4 +1,4 @@
-# Seminar 2 Home work
+# Seminar 2. Home work
 
 ## 1. Create new brach:
 
@@ -28,7 +28,7 @@ Secondly, merge:
 
 ## 3 Creating conflict and resolve it 
 
-
+Some text for master
 
 ## 4 Delete the branch
 
