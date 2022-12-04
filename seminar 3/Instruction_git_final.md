@@ -110,4 +110,15 @@ To test it:
 
 # Seminar 3. Remote repo
 
+First of all you need to synchronize your VS with github. In the left bottom corner in VS you will see person icon, where you can set it to be synchronized with github **(turn on setting sync -> Sign in & Turn on -> Sign with github -> Authorize VS Code -> Open)**.
+
+After you successfully synchronize your VS (or other IDE) with github you can pull, push and clone remote repositories.
+
+
+You need to create new repo in your github. After you need to enter commands below in your VS (they will be shown in github as soon as you click on "New Repository"):
+
+    git remote add origin https://github.com/YourGitName/NameOfYourRepo.git
+    git branch -M main
+    git push -u origin main
+
 
