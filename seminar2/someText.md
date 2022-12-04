@@ -28,7 +28,7 @@ Secondly, merge:
 
 ## 3 Creating conflict and resolve it 
 
-Some text for master
+This code from jun 
 
 ## 4 Delete the branch
 
