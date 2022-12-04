@@ -108,3 +108,6 @@ To test it:
     git branch
 
 
+# Seminar 3. Remote repo
+
+
